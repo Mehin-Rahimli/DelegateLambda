@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\bin\Debug\net6.0\DelegateLambda.exe
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\bin\Debug\net6.0\DelegateLambda.deps.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\bin\Debug\net6.0\DelegateLambda.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\bin\Debug\net6.0\DelegateLambda.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\bin\Debug\net6.0\DelegateLambda.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\refint\DelegateLambda.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\DelegateLambda.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateLambda\obj\Debug\net6.0\ref\DelegateLambda.dll

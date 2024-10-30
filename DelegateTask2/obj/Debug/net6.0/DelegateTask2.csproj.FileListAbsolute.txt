@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\bin\Debug\net6.0\DelegateTask2.exe
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\bin\Debug\net6.0\DelegateTask2.deps.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\bin\Debug\net6.0\DelegateTask2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\bin\Debug\net6.0\DelegateTask2.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\bin\Debug\net6.0\DelegateTask2.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\refint\DelegateTask2.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\DelegateTask2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\DelegateLambda\DelegateTask2\obj\Debug\net6.0\ref\DelegateTask2.dll
